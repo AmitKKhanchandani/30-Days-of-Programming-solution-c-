@@ -6,6 +6,7 @@
     <br><a href="http://www.amitk.co.in">www.amitk.co.in</a>
 </p>
 
+
 # Files
 
 The Code Solutions are written in C#
@@ -23,3 +24,6 @@ The Code Solutions are written in C#
 |Day 8: Dictionaries and Maps|[Solution](https://github.com/AmitKKhanchandani/30-Days-of-Programming-solution-c-/blob/master/Day%208%20Dictionaries%20and%20Maps.txt)|
 |Day 9: Recursion|[Solution](https://github.com/AmitKKhanchandani/30-Days-of-Programming-solution-c-/blob/master/Day%209%20Recursion.txt)|
 |***More coming soon!***||
+
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
