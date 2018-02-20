@@ -21,4 +21,5 @@ The Code Solutions are written in C#
 | Day 6: Let's Review | [Solution](https://github.com/AmitKKhanchandani/30-Days-of-Programming-solution-c-/blob/master/Day%206%20Let%27s%20Review.txt) |
 | Day 7: Arrays | [Solution](https://github.com/AmitKKhanchandani/30-Days-of-Programming-solution-c-/blob/master/Day%207%20Arrays.txt) |
 |Day 8: Dictionaries and Maps|[Solution](https://github.com/AmitKKhanchandani/30-Days-of-Programming-solution-c-/blob/master/Day%208%20Dictionaries%20and%20Maps.txt)|
+|Day 9: Recursion|[Solution](https://github.com/AmitKKhanchandani/30-Days-of-Programming-solution-c-/blob/master/Day%209%20Recursion.txt)|
 |***More coming soon!***||
