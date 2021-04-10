@@ -27,6 +27,7 @@ The Code Solutions are written in C#
 |Day 11: 2D Arrays|[Solution](https://github.com/AmitKKhanchandani/30-Days-of-Programming-solution-c-/blob/master/Day%2011%202D%20Arrays.cs)|
 |Day 12: Inheritance|[Solution](https://github.com/AmitKKhanchandani/30-Days-of-Programming-solution-c-/blob/master/Day%2012%20Inheritance.cs)|
 |Day 13: Abstract Classes|[Solution](https://github.com/AmitKKhanchandani/30-Days-of-Programming-solution-c-/blob/master/Day%2013%20Abstract%20Classes.cs)|
+|Day 14: Scope|[Solution](https://github.com/AmitKKhanchandani/30-Days-of-Programming-solution-c-/blob/master/Day%2014%20Scope.cs)|
 |***More coming soon!***||
 
 
